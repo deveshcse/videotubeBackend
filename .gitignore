@@ -22,6 +22,7 @@ build/
 # Editor-specific files
 .vscode/
 .idea/
+.git/
 
 # Testing and coverage reports
 coverage/
